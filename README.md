@@ -2,7 +2,8 @@
 
 Hola! Soy martu.
 
-![yoparadigmas](https://user-images.githubusercontent.com/129457543/229544880-1c9470d8-00c0-4228-b63a-0830fda91926.jpeg)
+![yoparadigmas](https://user-images.githubusercontent.com/129457543/229545324-d6ed0a71-6acb-4508-b395-9bf309277c10.jpeg)
+
 
 
 
