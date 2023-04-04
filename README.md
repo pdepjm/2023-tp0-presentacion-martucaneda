@@ -7,21 +7,21 @@ Hola! Soy martu.
 
 
 # Sobre mi
--Tengo **19 años**
+- Tengo **19 años**
 
--Vivo en **Parque Avellaneda**
+- Vivo en **Parque Avellaneda**
 
--Juego **futsal** 
+- Juego **futsal** 
 
--Hincha de **River** 
+- Hincha de **River** 
 
--**Trabajo** en un local de ropa deportiva
+- **Trabajo** en un local de ropa deportiva
 
 # Me gusta
--Escuchar **musica**, escucho de todo y todo el tiempo
+- Escuchar **musica**, escucho de todo y todo el tiempo
 
--Ir a la **cancha**
+- Ir a la **cancha**
 
--Merendar, con **mates** y amigos mejor 
+- Merendar, con **mates** y amigos mejor 
 
--El **fernet** y el **asado** 
+- El **fernet** y el **asado** 
