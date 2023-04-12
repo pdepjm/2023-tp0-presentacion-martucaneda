@@ -24,4 +24,4 @@ Hola! Soy martu.
 
 - Merendar, con **mates** y amigos mejor 
 
-- El **fernet** y el **asado** 
+- El **asado** 
